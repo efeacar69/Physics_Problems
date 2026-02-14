@@ -22,7 +22,7 @@ Consider the Universal Law of Gravitation: $F = G \frac{m_1 m_2}{r^2}$, where $F
 
 ## 4. Rearranging Formulas
 
-The formula for the period of a simple pendulum is $T = 2\pi \sqrt{\frac{L}{g}}$ Rearrange the equation give formula for $g$ (acceleration due to gravity).
+The formula for the period of a simple pendulum is $T = 2\pi \sqrt{\frac{L}{g}}$. Rearrange the equation give a formula for $g$ (acceleration due to gravity).
 
 ## 5. Trigonometry
 
@@ -40,7 +40,7 @@ A bicycle is 10 meters from a wall and moves towards it at a constant speed of $
 
 Calculate the area under the curve of the function $f(x) = \sin(x)$ from $x=0$ to $x=\pi$.
 
-## 9. Optimalization Problem
+## 9. Optimization Problem
 
 A rectangle is under the curve $y = 3 - x^2$ in the first quadrant. What are the dimensions of the rectangle with the maximum area?
 
